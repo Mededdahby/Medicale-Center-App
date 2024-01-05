@@ -46,14 +46,14 @@ Before you begin, ensure you have met the following requirements:
 
 
 
-###Contributing
+##Contributing
 🤝 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
-#Fork the repository
-#Create a new branch (git checkout -b feature/new-feature)
-#Commit your changes (git commit -am 'Add new feature')
-#Push to the branch (git push origin feature/new-feature)
-#Create a new Pull Request
+-Fork the repository
+-Create a new branch (git checkout -b feature/new-feature)
+-Commit your changes (git commit -am 'Add new feature')
+-Push to the branch (git push origin feature/new-feature)
+-Create a new Pull Request
 
 ##License
 📄 Copyright © 2024 MedoxEddahby
