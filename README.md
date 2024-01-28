@@ -55,6 +55,11 @@ Before you begin, ensure you have met the following requirements:
 | ------------------------------------------ | ----------------------------------------- |
 | ![Medical Records](screenshots/rendezvous.png) | ![Add Doctor](screenshots/AddMedcine.png) |
 
-##License
+| Modify Doctor                    
+| ------------------------------------------  ----------------------------------------- |
+| ![Medical Records](screenshots/editMedcine.png) |
+
+
+## License
 📄 Copyright © 2024 MedoxEddahby
 📄 This project is licensed under the MIT License - see the LICENSE.md file for details.
