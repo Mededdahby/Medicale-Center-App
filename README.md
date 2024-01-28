@@ -55,9 +55,9 @@ Before you begin, ensure you have met the following requirements:
 | ------------------------------------------ | ----------------------------------------- |
 | ![Medical Records](screenshots/rendezvous.png) | ![Add Doctor](screenshots/AddMedcine.png) |
 
-| Modify Doctor                    
-| ------------------------------------------  ----------------------------------------- |
-| ![Medical Records](screenshots/editMedcine.png) |
+| Modify Doctor                             |                                            |
+| ------------------------------------------|  ----------------------------------------- |
+| ![Medical Records](screenshots/editMedcine.png)                                        |
 
 
 ## License
