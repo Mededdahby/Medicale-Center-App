@@ -26,7 +26,7 @@
 
 - Java
 - MySQL
-- Swing 
+- Swing
 
 ## Getting Started
 
@@ -43,17 +43,19 @@ Before you begin, ensure you have met the following requirements:
 
    ```bash
    git clone https://github.com/Mededdahby/Medicale-Center-App.git
+   ```
 
+## screenshots
 
+| Doctor Management                             | Patient Management                            |
+| --------------------------------------------- | --------------------------------------------- |
+| ![Doctor Management](screenshots/medcine.png) | ![Patient Management](screenshots/client.png) |
 
-##Contributing
-🤝 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
-
--Fork the repository
--Create a new branch (git checkout -b feature/new-feature)
--Commit your changes (git commit -am 'Add new feature')
--Push to the branch (git push origin feature/new-feature)
--Create a new Pull Request
+| Medical Records                            | Add Doctor                                |
+| ------------------------------------------ | ----------------------------------------- |
+| ![Medical Records](screenshots/rendezvous) | ![Add Doctor](screenshots/AddMedcine.png) |
+| Medical Records                            | User Authentication                       |
+| ------------------                         | ----------------------                    |
 
 ##License
 📄 Copyright © 2024 MedoxEddahby
