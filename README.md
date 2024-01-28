@@ -54,8 +54,6 @@ Before you begin, ensure you have met the following requirements:
 | Medical Records                            | Add Doctor                                |
 | ------------------------------------------ | ----------------------------------------- |
 | ![Medical Records](screenshots/rendezvous.png) | ![Add Doctor](screenshots/AddMedcine.png) |
-| Medical Records                            | User Authentication                       |
-| ------------------                         | ----------------------                    |
 
 ##License
 📄 Copyright © 2024 MedoxEddahby
